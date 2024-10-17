@@ -2,8 +2,8 @@ package util
 
 import (
 	"bytes"
-	"github.com/dop251/goja"
-	"github.com/dop251/goja_nodejs/require"
+	"github.com/peace0phmind/goja"
+	"github.com/peace0phmind/goja_nodejs/require"
 )
 
 const ModuleName = "util"

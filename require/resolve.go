@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	js "github.com/dop251/goja"
+	js "github.com/peace0phmind/goja"
 )
 
 const NodePrefix = "node:"

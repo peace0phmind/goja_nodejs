@@ -3,7 +3,7 @@ package errors
 import (
 	"fmt"
 
-	"github.com/dop251/goja"
+	"github.com/peace0phmind/goja"
 )
 
 const (
